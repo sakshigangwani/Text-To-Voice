@@ -1,6 +1,6 @@
 # Text-To-Voice
 
-## Text-to-Speech: A User-Friendly Web App (HTML, CSS, JavaScript)
+## Text-to-Speech: A User-Friendly Website (HTML, CSS, JavaScript)
 
 This project is a web application built using HTML, CSS, and JavaScript that empowers users to effortlessly convert text into spoken language. It provides a convenient and accessible way for individuals to experience their written content through audio.
 
